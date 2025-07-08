@@ -25,8 +25,8 @@ This task involves analyzing `logs.json` to identify key problems affecting chat
   - More predictable latency impact.
 
 ### How to Run
-- Open `analyze_json.ipynb` in Jupyter or VSCode.
+- Open `analyze_json.ipynb` in Jupyter Notebook or VSCode.
 - Execute cells step-by-step to view log analysis, calculations, and supporting charts.
 
 ### Author
-[Your Name]
+Gayane Hovsepyan
