@@ -7,7 +7,7 @@ This task involves analyzing `logs.json` to identify key problems affecting chat
 
 ### Files
 - `analyze_json.ipynb`: Jupyter notebook containing detailed analysis of logs, evidence extraction, and cost calculations.
-- `Untitled document.pdf`: Written report summarizing findings, hypotheses, and final recommendation.
+- `DetailedReport.pdf`: Written report summarizing findings, hypotheses, and final recommendation.
 
 ### Key Findings
 1. **Root Cause Analysis**
